@@ -2,7 +2,7 @@
 
 I'm Russell
 
-I'm a full-stack developerin CORE Studio, where I work on building web and desktop applications for different structural engineering departments in the company.
+I'm a full-stack developer in CORE Studio, where I work on building web and desktop applications for different structural engineering departments in the company.
 
 Check out my website to see what I'm building publicly and privately: https://feathers-codes.com
 
