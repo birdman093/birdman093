@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi There, I'm Russell 👋
+<br>
+I'm a full-stack developer in CORE Studio, where I build web and desktop applications for different structural engineering departments at Thornton Tomasetti.
+<br></br>
 
-I'm Russell
+Check out my website to learn more: https://www.feathers-codes.com
 
-I'm a full-stack developer in CORE Studio, where I work on building web and desktop applications for different structural engineering departments in the company.
-
-Check out my website to see what I'm building publicly and privately: https://www.feathers-codes.com
-
-## Notable Public Projects <br>
-2023 -- GCP Cloud Project using OAuth, and GCP: https://github.com/birdman093/Secure-Marina<br>
-2022 -- AECTech Hackathon Winning Project: https://github.com/clicketyclackety/Crash<br>
-2022 -- Zillow Game: https://github.com/featheru/ZillowGame<br>
-2022 -- Apartment Database: https://github.com/featheru/CS340_Project <br>
+## Public Projects <br>
+2023 -- Z-Guess: https://github.com/birdman093/Z-Guess<br>
+2023 -- GCP Template using OAuth, Datastore and Flask: https://github.com/birdman093/Secure-Marina<br>
+2022 -- Crash: AECTech Hackathon Winner: https://github.com/clicketyclackety/Crash<br>
+2022 -- Beaver Apartments: https://github.com/birdman093/Beaver-Apartments <br>
+2021 -- Simulated Bash Shell : https://github.com/birdman093/Faux-Shell-C <br>
