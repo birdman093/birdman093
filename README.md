@@ -6,7 +6,7 @@ I'm a full-stack developer in CORE Studio, where I build web and desktop applica
 Check out my website to learn more: https://www.feathers-codes.com
 
 ## Public Projects <br>
-2024 -- Tetris: https://github.com/birdman093/tetris
+2024 -- Tetris: https://github.com/birdman093/tetris<br>
 2023 -- Clippy-AI: https://github.com/rfeathers068/clippy-ai<br>
 2023 -- Z-Guess: https://github.com/birdman093/Z-Guess<br>
 2023 -- GCP Template using OAuth, Datastore and Flask: https://github.com/birdman093/Secure-Marina<br>
