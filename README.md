@@ -1,9 +1,6 @@
 ### Hi There, I'm Russell 👋
-<br>
-I'm a full-stack developer in CORE Studio, where I build web and desktop applications for different structural engineering departments at Thornton Tomasetti.
-<br></br>
 
-Check out my website to learn more: https://www.feathers-codes.com
+Check out my website to see more of my projects: https://www.feathers-codes.com
 
 ## Public Projects <br>
 2024 -- Tetris: https://github.com/birdman093/tetris<br>
